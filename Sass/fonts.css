@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'Cairo-light';
+  src: url("../fonts/Cairo-Light.eot");
+  src: url("../fonts/Cairo-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Cairo-Light.woff2") format("woff2"), url("../fonts/Cairo-Light.woff") format("woff"), url("../fonts/Cairo-Light.svg#Cairo-Light") format("svg");
+  font-weight: 300;
+  font-style: normal; }
+@font-face {
+  font-family: 'Cairo-semi-bold';
+  src: url("../fonts/Cairo-SemiBold.eot");
+  src: url("../fonts/Cairo-SemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/Cairo-SemiBold.woff2") format("woff2"), url("../fonts/Cairo-SemiBold.woff") format("woff"), url("../fonts/Cairo-SemiBold.svg#Cairo-SemiBold") format("svg");
+  font-weight: 600;
+  font-style: normal; }
+@font-face {
+  font-family: 'Cairo-extralight';
+  src: url("../fonts/Cairo-ExtraLight.eot");
+  src: url("../fonts/Cairo-ExtraLight.eot?#iefix") format("embedded-opentype"), url("../fonts/Cairo-ExtraLight.woff2") format("woff2"), url("../fonts/Cairo-ExtraLight.woff") format("woff"), url("../fonts/Cairo-ExtraLight.svg#Cairo-ExtraLight") format("svg");
+  font-weight: 200;
+  font-style: normal; }
+@font-face {
+  font-family: 'Cairo-regular';
+  src: url("../fonts/Cairo-Regular.eot");
+  src: url("../fonts/Cairo-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Cairo-Regular.woff2") format("woff2"), url("../fonts/Cairo-Regular.woff") format("woff"), url("../fonts/Cairo-Regular.svg#Cairo-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'Cairo-bold';
+  src: url("../fonts/Cairo-Bold.eot");
+  src: url("../fonts/Cairo-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Cairo-Bold.woff2") format("woff2"), url("../fonts/Cairo-Bold.woff") format("woff"), url("../fonts/Cairo-Bold.svg#Cairo-Bold") format("svg");
+  font-weight: bold;
+  font-style: normal; }
+@font-face {
+  font-family: 'Cairo-black';
+  src: url("../fonts/Cairo-Black.eot");
+  src: url("../fonts/Cairo-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/Cairo-Black.woff2") format("woff2"), url("../fonts/Cairo-Black.woff") format("woff"), url("../fonts/Cairo-Black.svg#Cairo-Black") format("svg");
+  font-weight: 900;
+  font-style: normal; }
+
+/*# sourceMappingURL=fonts.css.map */
